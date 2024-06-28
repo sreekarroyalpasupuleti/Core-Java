@@ -1,3 +1,8 @@
+//How to read data from keyboard In Java
+//1) BufferedReader-----( java.io )
+//2) Scanner------------( java.util )
+//3) Command Line Arguments (input for main method)
+
 import java.io.*;
   public class RoleFinder {
 
