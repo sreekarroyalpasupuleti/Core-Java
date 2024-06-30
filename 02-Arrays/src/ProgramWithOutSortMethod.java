@@ -19,3 +19,6 @@ public class ProgramWithOutSortMethod {
     }
 }
 
+//output::
+// Min Element :: 18
+// Max Element :: 71
