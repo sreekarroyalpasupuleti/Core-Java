@@ -13,3 +13,8 @@ import java.util.*;
             System.out.println("Max Element : " + arr [ arr.length - 1 ] );
         }
     }
+
+
+//output:
+//Min Element : 1
+//Max Element : 99
