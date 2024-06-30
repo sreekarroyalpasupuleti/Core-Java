@@ -1,4 +1,4 @@
-// Write a java program to read person age and person salary and print his eligibility for marriage
+// Write a java program to read completed projects and person salary and print his eligibility for promotion
 //Condtion : If person completes 5 projects and salary 1 lakh then eligible for promotion
 
 import java.io.*;
