@@ -22,3 +22,4 @@ class Reverse {
     }
 }
 
+//output:17 14 13 12 56 1 18
