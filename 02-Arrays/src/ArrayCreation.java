@@ -16,3 +16,8 @@ class ArrayCreation {
 
     }
 }
+//Output:
+//121
+//122
+//123
+//103
