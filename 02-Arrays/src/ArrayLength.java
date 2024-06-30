@@ -12,3 +12,4 @@ public class ArrayLength {
     }
 }
 
+//output:4
