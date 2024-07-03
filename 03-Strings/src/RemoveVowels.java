@@ -5,7 +5,7 @@ public class RemoveVowels {
 
         s = s.replaceAll ("[aeiouAEIOU]", "");
 
-        System.out.println(s);
+        System.out.println(s); //Output: Hw r y
     }
 
 }
