@@ -6,7 +6,7 @@ public class WordCount {
 
             String[ ] arr = s.split("\\s+");
 
-            System.out.println(arr.length);
+            System.out.println(arr.length);//output: 5
         }
 
     }
