@@ -8,7 +8,7 @@ public class StringReverse {
 
             for( int i = s.length( ) - 1 ; i >=0 ;  i-- ){
 
-                rev = rev + s.charAt ( i ) ; //esreveR
+                rev = rev + s.charAt ( i ) ; //output:esreveR
             }
             System.out.println(rev);
 
